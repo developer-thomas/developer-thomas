@@ -3,8 +3,8 @@
 ## About me 🤵
 
 Entusiasta incansável da criação visual e interativa na web, estou embarcando na jornada como desenvolvedor front-end com um desejo ardente de contribuir para experiências online excepcionais. Estou motivado a explorar novos horizontes na programação e design web.
-Aos 19 anos, através de concurso público, ingressou na Marinha do Brasil, hoje aos 24 desempenha a função de Administrador de Redes Locais, que resume-se em suporte TI ao usuário.
-Tem um forte desejo e ambição na migração de carreira para trabalhar na área de desenvolvimento web, busca capacitação através do Curso Superior de Engenharia de Software, cursos extracurriculares, projetos pessoais para desenvolvimento de suas habilidades.
+Com uma paixão genuína pela estética digital e usabilidade, estou ávido para aplicar minhas habilidades em projetos desafiadores que ampliem meu conhecimento e impulsionem meu crescimento profissional. 
+Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas competências técnicas, mas também colaborar em equipes dinâmicas, onde posso contribuir para a evolução de produtos inovadores.
 
 ## Social 📡
 
