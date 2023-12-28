@@ -2,12 +2,9 @@
 
 ## About me 🤵
 
-Profissional apaixonado por tecnologia que aos 11 anos de idades aventurou-se a desmontar seu próprio computador e reinstalar o
-sistema operacional, desencadeando uma plena paixão por computadores, sistemas e resolução de problemas na área tecnológica. Aos
-19 anos, através de concurso público, ingressou na Marinha do Brasil, hoje aos 25 desempenha a função de Administrador de Redes
-Locais, que resume-se em suporte TI ao usuário. Tem um forte desejo e ambição na migração de carreira para trabalhar ativamente na
-área de desenvolvimento web, busca capacitação através do Curso Superior de Engenharia de Software, cursos extracurriculares e
-projetos pessoais para desenvolvimento de suas habilidades.
+Entusiasta incansável da criação visual e interativa na web, estou embarcando na jornada como desenvolvedor front-end com um desejo ardente de contribuir para experiências online excepcionais. Estou motivado a explorar novos horizontes na programação e design web.
+Aos 19 anos, através de concurso público, ingressou na Marinha do Brasil, hoje aos 24 desempenha a função de Administrador de Redes Locais, que resume-se em suporte TI ao usuário.
+Tem um forte desejo e ambição na migração de carreira para trabalhar na área de desenvolvimento web, busca capacitação através do Curso Superior de Engenharia de Software, cursos extracurriculares, projetos pessoais para desenvolvimento de suas habilidades.
 
 ## Social 📡
 
