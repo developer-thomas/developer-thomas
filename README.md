@@ -2,7 +2,7 @@
 
 ## About me 🤵
 
-Entusiasta incansável da criação visual e interativa na web, estou embarcando na jornada como desenvolvedor front-end com um desejo ardente de contribuir para experiências online excepcionais. Estou motivado a explorar novos horizontes na programação e design web.
+Estou embarcando na jornada como desenvolvedor front-end com um desejo ardente de contribuir para experiências online excepcionais. Estou motivado a explorar novos horizontes na programação e design web.
 Com uma paixão genuína pela estética digital e usabilidade, estou ávido para aplicar minhas habilidades em projetos desafiadores que ampliem meu conhecimento e impulsionem meu crescimento profissional. 
 Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas competências técnicas, mas também colaborar em equipes dinâmicas, onde posso contribuir para a evolução de produtos inovadores.
 
