@@ -2,7 +2,7 @@
 
 ## About me 🤵
 
-Estou embarcando na jornada como desenvolvedor front-end com um desejo ardente de contribuir para experiências online excepcionais. Estou motivado a explorar novos horizontes na programação e design web.
+Estou embarcando na jornada como desenvolvedor front-end com forte desejo de contribuir para experiências online excepcionais. Estou motivado a explorar novos horizontes na programação e design web.
 Com uma paixão genuína pela estética digital e usabilidade, estou ávido para aplicar minhas habilidades em projetos desafiadores que ampliem meu conhecimento e impulsionem meu crescimento profissional. 
 Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas competências técnicas, mas também colaborar em equipes dinâmicas, onde posso contribuir para a evolução de produtos inovadores.
 
@@ -11,7 +11,6 @@ Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-edson-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomas.devp/)
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://thomas-blog.netlify.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://thomasdev.netlify.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/559185605415)
 
 ## Habilidades 💻
