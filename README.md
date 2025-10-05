@@ -10,8 +10,8 @@ Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-edson-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomas.devp/)
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://thomas-blog.netlify.app)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/559185605415)
+[![Portifólio](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://thomas-edson.com)
+
 
 ## Habilidades 💻
 
@@ -26,11 +26,11 @@ Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas 
   <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  
-  
+  <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/NestJs-6DA55F?style=for-the-badge&logo=nestjs&logoColor=white&color=red">
+  <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/Docker-6DA55F?style=for-the-badge&logo=docker&logoColor=white&color=blue">
+  <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/tailwindcss-6DA55F?style=for-the-badge&logo=tailwind&logoColor=white&color=cyan">
   
   </div>
 
