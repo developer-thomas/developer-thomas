@@ -2,9 +2,7 @@
 
 ## About me 🤵
 
-Estou embarcando na jornada como desenvolvedor front-end com forte desejo de contribuir para experiências online excepcionais. Estou motivado a explorar novos horizontes na programação e design web.
-Com uma paixão genuína pela estética digital e usabilidade, estou ávido para aplicar minhas habilidades em projetos desafiadores que ampliem meu conhecimento e impulsionem meu crescimento profissional. 
-Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas competências técnicas, mas também colaborar em equipes dinâmicas, onde posso contribuir para a evolução de produtos inovadores.
+Working with programming since 2022 as a front-end developer. Specialized in building responsive and user-friendly web interfaces using technologies like Angular, React, Ionic, and TypeScript. My focus is on delivering high-quality code, easy maintenance, and effective problem-solving.
 
 ## Social 📡
 
@@ -13,7 +11,7 @@ Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas 
 [![Portifólio](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://thomas-edson.com)
 
 
-## Habilidades 💻
+## Skills 💻
 
 <div>
   <img align="center" style="display:inline-block" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -42,4 +40,4 @@ Busco ativamente por oportunidades que me permitam não apenas aprimorar minhas 
 
 ![Thomas Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-thomas&show_icons=true&rank_icon=github)
 
-Apaixonado por tecnologia e computadores, dedica-se a compreensão do universo computacional.
+Apaixonado por tecnologia e computadores, dedico-me a compreensão do universo computacional.
